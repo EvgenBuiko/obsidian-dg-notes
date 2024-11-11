@@ -4,7 +4,8 @@
 
 ![Pasted image 20241112002306.png](/img/user/Pasted%20image%2020241112002306.png)
 
-<img style="display: block; margin: right;" src="Pasted image 20241112002306.png"/>
+<img style="display: block; margin: right;" src="src/site/img/user/Pasted image 20241112002306.png"/>
+
 # Здарова, чумбы!
 
 Думаю вы все уже знаете, зачем мы здесь собрались, но на всякий случай я напомню, если вдруг кто-то повредил «хром», шарясь по непроверенным сайтам с брейндансами.
