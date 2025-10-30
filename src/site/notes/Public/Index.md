@@ -6,12 +6,20 @@
 
 Что ж:
 
-## Evgen Buiko
+# Evgen Buiko
 
-Записки сумашедшего. 
+Записки очередного сумашедшего айтишника. 
 
 Мои соцсети:
+* https://www.linkedin.com/in/evgen-buiko-023660181/
+* https://github.com/EvgenBuiko
+* https://t.me/BuikoEvgen
 
-https://www.linkedin.com/in/evgen-buiko-023660181/
+# Что под катом
+
+* [[Public/DevOps/Локальные ссылки в сервисе при проксировании\|Локальные ссылки в сервисе при проксировании]]
+
+
+
 
 
