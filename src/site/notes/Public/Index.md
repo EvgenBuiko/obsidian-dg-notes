@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Public/Index/","tags":["Public","gardenEntry"]}
+{"dg-publish":true,"permalink":"/Public/Index/","tags":["Public","gardenEntry","gardenEntry"]}
 ---
 
 Кто ты воин?
@@ -17,7 +17,7 @@
 
 # Что под катом
 
-* [[Public/DevOps/Локальные ссылки в сервисе при проксировании\|Локальные ссылки в сервисе при проксировании]]
+* [[Public/posts/post0\|post0]]
 * [[Public/DevOps/Fixed_WTF_problems\|Fixed_WTF_problems]]
 
 
