@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/index/","tags":["Public","gardenEntry"]}
+{"dg-publish":true,"permalink":"/Public/Index/","tags":["Public","gardenEntry","gardenEntry"]}
 ---
 
 Кто ты воин?
