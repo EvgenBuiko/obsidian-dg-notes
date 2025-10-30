@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Public/posts/post0/"}
+{"dg-publish":true,"permalink":"/public/posts/post0/"}
 ---
 
 
