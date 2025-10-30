@@ -2,6 +2,16 @@
 {"dg-publish":true,"permalink":"/public/index/","tags":["Public"]}
 ---
 
+Кто ты воин?
+
+Что ж:
+
+## Evgen Buiko
+
 Записки сумашедшего. 
 
-#TODO : Наполнить когда это станет главной страницей блога
+Мои соцсети:
+
+https://www.linkedin.com/in/evgen-buiko-023660181/
+
+
