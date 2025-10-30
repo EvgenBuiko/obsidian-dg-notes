@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Public/Index/","tags":["Public","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/Public/Index/","tags":["Public","gardenEntry"]}
 ---
 
 Кто ты воин?
@@ -17,7 +17,7 @@
 
 # Что под катом
 
-
+* [[Public/posts/post0\|Локальные ссылки в сервисе при проксировании ]]
 
 
 
