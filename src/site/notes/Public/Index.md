@@ -2,9 +2,6 @@
 {"dg-publish":true,"permalink":"/Public/Index/","contentClasses":"img2_column","tags":["#blog","gardenEntry"]}
 ---
 
-Кто ты воин?
-
-Что ж:
 # Evgen Buiko
 
 *Записки сумашедшего.* 
