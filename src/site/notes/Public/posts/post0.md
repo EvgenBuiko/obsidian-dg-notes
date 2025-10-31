@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Public/posts/post0/","title":"На сайте `example.com` кнопка с ссылкой `<local hostname>/<url>`. А как? [[post0|Read]]"}
+{"dg-publish":true,"permalink":"/Public/posts/post0/","title":"На захосченом сайте `example.com` кнопка с ссылкой `<local hostname>/<url>`. А как? [[post0|Read]]","tags":["blog","DevOps"]}
 ---
 
 # Локальные ссылки в сервисе при проксировании
