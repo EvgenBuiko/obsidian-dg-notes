@@ -16,4 +16,10 @@ body {
         max-height: 150px;
       }
     }
+
+    .markdown-preview-view .markdown-embed-content, 
+    .markdown-preview-view .markdown-embed-content>.markdown-preview-view {
+        max-height: unset;
+        max-width: unset;
+    }
 }
