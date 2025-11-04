@@ -17,6 +17,8 @@ body {
       }
     }
 
+    .full-embed {
+        
     /* remove title and the table from the "Metatable" plugin */
     .markdown-preview-view .markdown-embed-title,
     .markdown-preview-view .obsidian-metatable {
@@ -125,5 +127,6 @@ body {
       .obsidian-metatable {
         display: none;
       }
+    }
     }
 }
