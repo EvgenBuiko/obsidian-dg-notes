@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Public/Index/","contentClasses":"img2_column","tags":["blog","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/public/index/","contentClasses":"img2_column","tags":["blog","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 # Evgen Buiko

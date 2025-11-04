@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Public/posts/post1/","title":"Open Project docker 16-slim version: admin/admin отсутствует [[post1|Read]]","tags":["blog","DevOps"]}
+{"dg-publish":true,"permalink":"/public/posts/post1/","title":"Open Project docker 16-slim version: admin/admin отсутствует [[post1|Read]]","tags":["blog","DevOps"]}
 ---
 
 
