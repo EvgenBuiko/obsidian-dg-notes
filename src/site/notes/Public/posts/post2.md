@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/public/posts/post2/","tags":["DevOps","Git"]}
+{"dg-publish":true,"permalink":"/public/posts/post2/","title":"Познаём Flow но не рэперский а гитовский [0]","tags":["DevOps","Git","blog"]}
 ---
 
 Нынче все разработчики когда учаться встречаются с Git. Однако знают они в основном только базовые примитивы. Git не волшебная палочка и сама собой стабильную работу в команде не настраивает.
