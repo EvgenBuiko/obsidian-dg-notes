@@ -6,16 +6,16 @@
 * [[Public/posts/post2\|Познаём Flow но не рэперский а гитовский. Git(0)]]
 * [[Public/posts/post3\|Мы переросли эти ваши Flow и branches. Теперь мы серьезные ребята из TBD. Git(1)]]
 
+# Нитакусики
+
+Повидал я значит такое:
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
-# Нитакусики
+## OMP System
 
-## Мой опыт
-
-Повидал я значит такое:
 ```mermaid
 sequenceDiagram
 	actor Devs
