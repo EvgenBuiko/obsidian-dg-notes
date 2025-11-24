@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/public/posts/post4/","title":"Ну и естественно куда ведь без нитакусиков. Git[2] [[post4|Read]]","tags":["blog","DevOps","Git"]}
 ---
 
+#TODO - дописать
+
 Если не понятно о чём речь то ранее в :
 * [[Public/posts/post2\|Познаём Flow но не рэперский а гитовский. Git(0)]]
 * [[Public/posts/post3\|Мы переросли эти ваши Flow и branches. Теперь мы серьезные ребята из TBD. Git(1)]]
