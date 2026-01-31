@@ -15,14 +15,15 @@
 
 # Что под катом
 
-## Посты
+* [[#Набор полезностей]]
+* [[#Посты|Посты]]
+# Набор полезностей
+
+# Посты
 |                                                                                                         |                                      |
 | ------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-| На захосченом сайте "example.com" кнопка с ссылкой "< local hostname >/< url >". А как? [[Public/posts/post0\|Read]] | ![](https://i.imgur.com/axuKWSS.png) |
 | Open Project docker 16-slim version: admin/admin отсутствует [[Public/posts/post1\|Read]]                            | ![](https://i.imgur.com/28RM3FD.png) |
-| Познаём Flow но не рэперский а гитовский. Git[0] [[Public/posts/post2\|Read]]                                        | ![](https://i.imgur.com/8vNQpuF.png) |
-| Мы переросли эти ваши Flow и branches. Теперь мы серьезные ребята из TBD. Git[1] [[Public/posts/post3\|Read]]        | ![](https://i.imgur.com/82xMK8h.png) |
-| Ну и естественно куда ведь без нитакусиков. Git[2] [[Public/posts/post4\|Read]]                                      | ![](https://i.imgur.com/oa5RHmj.png) |
-| Асинхроннно = параллельно. Нет асинхронно = отложенное. Но что же там внутри? [[Public/posts/post5\|Read]]           | ![](https://i.imgur.com/0BGvK6z.png) |
+| Но что же эти ваши асинхронность и корутины такое под капотом? [[Public/posts/post5\|Read]]                          | ![](https://i.imgur.com/0BGvK6z.png) |
+| На захосченом сайте "example.com" кнопка с ссылкой "< local hostname >/< url >". А как? [[Public/posts/post0\|Read]] | ![](https://i.imgur.com/axuKWSS.png) |
 
 { .block-language-dataview}
