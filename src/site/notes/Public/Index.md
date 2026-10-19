@@ -20,7 +20,8 @@
 { .block-language-dataview}
 
 # Контакты для связи:
-CV: [[Evgen_Buiko_CV.html]]
+
+CV: [[Public/res/CVRef\|ref]]
 
 Мои соцсети:
 * telegram: https://t.me/BuikoEvgen
