@@ -13,6 +13,7 @@
 * https://github.com/EvgenBuiko
 * https://t.me/BuikoEvgen
 
+CV: [Evgen_Buiko_CV.pdf](/img/user/resources/rendercv_output/Evgen_Buiko_CV.pdf)
 # Пет проекты
 >[!info]
 >TODO
